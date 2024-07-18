@@ -1,0 +1,37 @@
+
+    .navbar-toggler-icon {
+        display: inline-block;
+        width: 1.5em;
+        height: 1.5em;
+        vertical-align: middle;
+        content: "";
+        background: no-repeat center center;
+        background-size: 100% 100%;
+    }
+
+    .divider-custom {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .divider-custom .line {
+        width: 50px;
+        height: 3px;
+        background-color: #fff;
+        margin: 0 1rem;
+        border-radius: 9px;
+        
+    }
+    .divider-custom .divider-custom-icon {
+        font-size: 2rem;
+    }
+
+    .line2 {
+        width: 50px;
+        height: 3px;
+        background-color: #0c0c0c;
+        margin: 0 1rem;
+        border-radius: 9px;
+        
+    }
+
