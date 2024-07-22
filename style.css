@@ -39,4 +39,12 @@
         border-radius: 9px;
         
     }
+    .line3 {
+        width: 50px;
+        height: 3px;
+        background-color: #f8f5f5;
+        margin: 0 1rem;
+        border-radius: 9px;
+        
+    }
 
