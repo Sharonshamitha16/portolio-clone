@@ -2,7 +2,7 @@
    body{
     overflow-x: hidden;
    }
-   .navbar-toggler-icon {
+   /* .navbar-toggler-icon {
         display: inline-block;
         width: 1.5em;
         height: 1.5em;
@@ -11,7 +11,7 @@
         background: no-repeat center center;
         background-size: 100% 100%;
       
-    }
+    } */
 
     .divider-custom {
         display: flex;
